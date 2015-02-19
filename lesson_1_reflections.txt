@@ -1,0 +1,5 @@
+viewing a diff between two versions of a file
+helped me find the difference before and after the
+erroneous result and help locate the changes between
+the two files. This helped me narrow down my search
+location, for the bug, very small and easy to find.
